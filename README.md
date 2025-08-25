@@ -10,7 +10,3 @@ It’s just me here—this repo keeps everything organized as I build, learn, an
 - Track daily/weekly progress with lightweight logs.
 - Keep each project self-contained with a clear README and reproducible steps.
 
----
-
-## Repo Structure
-
